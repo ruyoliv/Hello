@@ -1,1 +1,4 @@
 print("hello")
+frutas = ["maçã", "banana", "manga"]
+for x in frutas:
+  print(x) 
